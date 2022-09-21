@@ -16,7 +16,7 @@ ClipCC is a powerful scratch fork which adds some useful features.
 - clipcc-block: https://github.com/Clipteam/clipcc-block
 - clipcc-extension: https://github.com/Clipteam/clipcc-extension
 - clipcc-render: https://github.com/Clipteam/clipcc-render
-## 🖇️别针社区 - Clip Community!
+## 🖇️别针社区 - Clip Community
 
 **此专案还在开发阶段 This project is still in development!**
 
