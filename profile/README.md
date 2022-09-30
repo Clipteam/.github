@@ -1,6 +1,6 @@
 <center>
 
-# <img src='https://github.com/Edit-Mr/.github/blob/master/profile/clipcc.PNG?raw=true' width=35px /> 别针团队 - Clipteam
+# <img src='https://github.com/Clipteam/.github/blob/master/profile/clipcc.PNG?raw=true' width=35px /> 别针团队 - Clipteam
 A group of Scratchers from China, dedicated to make creating easier.
 </center>
 
