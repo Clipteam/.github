@@ -1,6 +1,6 @@
 <center>
 
-# <img src="clipcc.png" width=35px /> 别针团队 - Clipteam
+# <img src='https://github.com/Clipteam/.github/blob/master/profile/clipcc.PNG?raw=true' width=35px /> 别针团队 - Clipteam
 A group of Scratchers from China, dedicated to make creating easier.
 </center>
 
@@ -18,7 +18,7 @@ ClipCC is a powerful scratch fork which adds some useful features.
 - clipcc-render: https://github.com/Clipteam/clipcc-render
 ## 🖇️别针社区 - Clip Community
 
-**此专案还在开发阶段 This project is still in development!**
+**此项目还在开发阶段 This project is still in development!**
 
 别针社区是一个非营利性的，以 ClipCC 为基础编写的在线 Scratch 作品分享平台。  
 The ClipCC Community is a free, ClipCC-based Scratch platform.
@@ -26,7 +26,7 @@ The ClipCC Community is a free, ClipCC-based Scratch platform.
 
 | [主站 Website](https://codingclip.com/) | [編輯器 Editor](https://codingclip.com/editor) |
 | --------------------------------------- |-----------------------------------------------|
-|[<img src=https://codingclip.com/_next/static/media/logo.60144216.svg height=40 />](https://codingclip.com/) | [<img src=clipcc-blue.png height=40 />](https://codingclip.com/)
+|[<img src=https://codingclip.com/_next/static/media/logo.60144216.svg height=40 />](https://codingclip.com/) | [<img src=https://raw.githubusercontent.com/Clipteam/clipcc-gui/master/src/components/about-modal/clipcc3_logo.svg height=40 />](https://codingclip.com/)
 # 💬 联系方式 - Contact
 <a href="mailto:sinangentoo@gmail.com"><img src="https://img.shields.io/badge/-sinangentoo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.gg/uuyHNBH"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
