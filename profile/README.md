@@ -18,7 +18,7 @@ ClipCC is a powerful scratch fork which adds some useful features.
 - clipcc-render: https://github.com/Clipteam/clipcc-render
 ## 🖇️别针社区 - Clip Community
 
-**此专案还在开发阶段 This project is still in development!**
+**此项目还在开发阶段 This project is still in development!**
 
 别针社区是一个非营利性的，以 ClipCC 为基础编写的在线 Scratch 作品分享平台。  
 The ClipCC Community is a free, ClipCC-based Scratch platform.
